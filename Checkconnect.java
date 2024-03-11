@@ -3,7 +3,6 @@ public class Checkconnect {
         String a="Hello";
         int b=10, c=5;
         System.out.println(a);
-        //Add commenttt
-
+        //Add comment
     }
 }
